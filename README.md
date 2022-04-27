@@ -1,5 +1,6 @@
 # summerpy
 _A collection for the 2022 Summer workshop on Python for Managers (of all scholarly stripes)._
+
 © Colin Conrad, 2022
 
 This is a public repository of exercises used in the SummerPy workshop, Faculty of Management, Dalhousie University. The workshop will take place over six Wednesdays in May through July, though participants will be welcome to go at their own pace and will have opportunities to connect asynchronously. Nobody at this group aspires to be a professional software developer, though we all want to learn Python so that we can do more complex data work. Participants are not expected to have any prior programming experience, though should come with an open mind and a willingness to learn. This workshop is free of charge and will leverage old materials that I used to teach with. All of the files contained in here are Juypter notebooks, which are best accessed using Anaconda. This is also a completely independent initiative, though I would hope it will one day become a regular thing for our faculty. I plan to update this folder before each of the live sessions stated below.
