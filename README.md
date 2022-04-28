@@ -12,7 +12,7 @@ I recommend cloning this folder as a whole and opening it in Jupyter using Anaco
 ## Sessions:
 
 - May 4th - So... what is Python anyways and why should we care?
-- May 11th - Clean Halifax's messy housing data with `Python`
+- May 18th - Clean Halifax's messy housing data with `Python`
 - May 25th - Visualize the best Airbnb digs with `Pandas` and `Matplotlib`
 - June 22nd - Build and manage a digital bookstore collection with `Python` and `SQL`
 - July 6th - Analyze a survey on the use of dating apps during the Covid lockdown with `SciPy`
