@@ -1,23 +1,23 @@
-Halifax — Average Rent by Bedroom Type by Zone
-October 2020 Row / Apartment
-,Bachelor,,1 Bedroom,,2 Bedroom,,3 Bedroom +,,Total,,
-Peninsula South,930,a ,"1,269",a ,"1,756",a ,"2,029",b ,"1,416",a ,
-Peninsula North,824,b ,"1,036",a ,"1,264",a ,"1,476",b ,"1,167",a ,
-Mainland South,**,,741,a ,"1,050",a ,"1,145",b ,948,a ,
-Mainland North,830,a ,969,a ,"1,237",a ,"1,492",a ,"1,183",a ,
-Dartmouth North,627,a ,793,a ,987,a ,"1,132",b ,903,a ,
-Dartmouth South,613,b ,915,b ,"1,159",a ,"1,077",a ,"1,063",a ,
-Dartmouth East,874,a ,870,b ,"1,070",b ,"1,073",a ,"1,034",b ,
-Bedford,699,c ,870,a ,"1,317",a ,"1,419",b ,"1,241",a ,
-Sackville,**,,"1,007",b ,"1,188",a ,"1,431",a ,"1,207",a ,
-Remainder of CMA,**,,"1,072",c ,"1,519",a ,"1,651",a ,"1,456",a ,
-Halifax,865,a ,"1,015",a ,"1,254",a ,"1,458",a ,"1,172",a ,
-
-Notes
-"The following letter codes are used to indicate the reliability of the estimates: a - Excellent, b- Very good, c - Good, d - Fair (Use with Caution)"
-** Data suppressed to protect confidentiality or data not statistically reliable
-++ Change in rent is not statistically significant. This means that the change in rent is not statistically different than zero (0).  (Applies only to % Change of Average Rent Tables).
- - No units exist in the universe for this category
-n/a: Not applicable
-"CMA, CA and CSD definitions are based on 2016 Census Geography Definitions"
-Source,CMHC Rental Market Survey
+Halifax Average Rent by Bedroom Type by Zone,,,,,,,,,,
+October 2020 Row / Apartment,,,,,,,,,,
+,Bachelor,,1 Bedroom,,2 Bedroom,,3 Bedroom +,,Total,
+Peninsula South,930,a ,"1,269",a ,"1,756",a ,"2,029",b ,"1,416",a 
+Peninsula North,824,b ,"1,036",a ,"1,264",a ,"1,476",b ,"1,167",a 
+Mainland South,**,,741,a ,"1,050",a ,"1,145",b ,948,a 
+Mainland North,830,a ,969,a ,"1,237",a ,"1,492",a ,"1,183",a 
+Dartmouth North,627,a ,793,a ,987,a ,"1,132",b ,903,a 
+Dartmouth South,613,b ,915,b ,"1,159",a ,"1,077",a ,"1,063",a 
+Dartmouth East,874,a ,870,b ,"1,070",b ,"1,073",a ,"1,034",b 
+Bedford,699,c ,870,a ,"1,317",a ,"1,419",b ,"1,241",a 
+Sackville,**,,"1,007",b ,"1,188",a ,"1,431",a ,"1,207",a 
+Remainder of CMA,**,,"1,072",c ,"1,519",a ,"1,651",a ,"1,456",a 
+Halifax,865,a ,"1,015",a ,"1,254",a ,"1,458",a ,"1,172",a 
+,,,,,,,,,,
+Notes,,,,,,,,,,
+"The following letter codes are used to indicate the reliability of the estimates: a - Excellent, b- Very good, c - Good, d - Fair (Use with Caution)",,,,,,,,,,
+** Data suppressed to protect confidentiality or data not statistically reliable,,,,,,,,,,
+++ Change in rent is not statistically significant. This means that the change in rent is not statistically different than zero (0).  (Applies only to % Change of Average Rent Tables).,,,,,,,,,,
+ - No units exist in the universe for this category,,,,,,,,,,
+n/a: Not applicable,,,,,,,,,,
+"CMA, CA and CSD definitions are based on 2016 Census Geography Definitions",,,,,,,,,,
+Source,CMHC Rental Market Survey,,,,,,,,,

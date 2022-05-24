@@ -1,3 +1,5 @@
+"Halifax Average Rent by Bedroom Type by Zone"
+"October 2020 Row / Apartment"
 Bachelor "1 Bedroom" "2 Bedroom" "3 Bedroom +" Total
 "Peninsula South" 930 1,269 1,756 2,029 1,416
 "Peninsula North" 824 1,036 1,264 1,476 1,167
@@ -10,3 +12,12 @@ Bedford 699 870 1,317 1,419 1,241
 Sackville 1,007 1,188 1,431 1,207
 "Remainder of CMA" 1,072 1,519 1,651 1,456
 Halifax 865 1,015 1,254 1,458 1,172
+
+Notes
+"The following letter codes are used to indicate the reliability of the estimates: a - Excellent, b- Very good, c - Good, d - Fair (Use with Caution)"
+"** Data suppressed to protect confidentiality or data not statistically reliable"
+"++ Change in rent is not statistically significant. This means that the change in rent is not statistically different than zero (0).  (Applies only to % Change of Average Rent Tables)."
+" - No units exist in the universe for this category"
+"n/a: Not applicable"
+"CMA, CA and CSD definitions are based on 2016 Census Geography Definitions"
+Source "CMHC Rental Market Survey"
