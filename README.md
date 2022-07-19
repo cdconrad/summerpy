@@ -16,7 +16,7 @@ I recommend cloning this folder as a whole and opening it in Jupyter using Anaco
 - May 25th - Visualize the best Airbnb digs with `Pandas` and `Matplotlib`
 - June 29th - Build and manage a digital bookstore collection with `Python` and `SQL`
 - July 6th - Analyze a survey on the use of dating apps during the Covid lockdown with `SciPy`
-- July 20th - Detect heart disease in anonymous patients using `Scikit-Learn`
+- July 13th - Detect heart disease in anonymous patients using `Scikit-Learn`
 
 ## About the SummerPy approach
 
